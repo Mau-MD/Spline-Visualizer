@@ -1,0 +1,10 @@
+Path/VectorPair.java
+ Path.VectorPair
+Path/Point.java
+ Path.Point
+Path/CubicCoefficients.java
+ Path.CubicCoefficients
+Main.java
+ Main
+Path/SplineGenerator.java
+ Path.SplineGenerator
